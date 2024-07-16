@@ -23,7 +23,7 @@ Clone the repository and install dependencies:
 
 ````bash
 git clone https://github.com/ashutoshdeshmukh22/user-management-crud-mongodb.git
-cd user-management-console
+cd user-management-crud-mongodb
 
 ## Installation
 
