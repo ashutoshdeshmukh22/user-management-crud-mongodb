@@ -22,7 +22,7 @@ Before running the project, ensure you have the following installed:
 Clone the repository and install dependencies:
 
 ````bash
-git clone https://github.com/your-username/nestjs-mongodb-crud.git
+git clone https://github.com/ashutoshdeshmukh22/user-management-crud-mongodb.git
 cd user-management-console
 
 ## Installation
